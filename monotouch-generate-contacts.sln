@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monotouch-generate-contacts", "monotouch-generate-contacts.csproj", "{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Release|iPhone.Build.0 = Release|iPhone
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C61EC2B1-76F3-46BF-A37F-F3FE2601C4F2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = monotouch-generate-contacts.csproj
+	EndGlobalSection
+EndGlobal
